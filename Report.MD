@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 In the modern retail landscape, data-driven insights are essential for strategic decision-making.
 The goal of this project is to uncover performance trends, regional strengths, and growth opportunities across Adidas’ U.S. sales data.
