@@ -26,7 +26,7 @@ The dataset contains transactional records of Adidas sales across various dimens
 ## Data Sources
 The data was provided as a structured Excel file containing:
 
-**- Fact Table:** Sales transactions (sales value, profit, units sold, date, etc.)
+*- Fact Table:* Sales transactions (sales value, profit, units sold, date, etc.)
 
 - Dimension Tables: Retailers, Products, Regions, and Dates
 
