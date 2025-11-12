@@ -91,6 +91,7 @@ Used to track performance across time:
 - SalesYTD
 - ProfitYTD
 -UnitSoldYTD
+-TransactionCountYTD
 
 ## Variance Analysis
 
@@ -156,6 +157,7 @@ The average profit margin stood at 42.3%, indicating a healthy balance between r
 
 - A deeper look into yearly performance shows that 2021 accounted for nearly 80% of total sales ($717.8 million), demonstrating a sharp rebound from 2020’s $182.1 million.
 This surge reflects strong consumer confidence and effective retail and marketing strategies following a challenging economic year.
+
 **[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTg4NDFiNmMtMjIxMS00MTkwLTg3MDItN2M1ZGEyODc2MGY1IiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
 
 # Insights and Findings
