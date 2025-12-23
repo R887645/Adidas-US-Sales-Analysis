@@ -134,6 +134,7 @@ Three report pages were developed:
 - Profitability breakdown by product and gender segment.
 
 - Category-level contribution to total sales.
+![my image description](https://github.com/R887645/Adidas-US-Sales-Analysis/blob/main/Product%20page.png?raw=true)
 
 ## Trend Analysis
 
@@ -144,6 +145,9 @@ Three report pages were developed:
 - Time series visualization to detect cyclical patterns.
 
 A state-level tooltip was added for geographic insights, allowing users to hover over a state and instantly view sales, profit, and growth metrics.
+
+![my image description](https://github.com/R887645/Adidas-US-Sales-Analysis/blob/main/trend%20analysis%20.png?raw=true)
+
 
 # Key Metrics
 
@@ -159,7 +163,7 @@ The average profit margin stood at 42.3%, indicating a healthy balance between r
 - A deeper look into yearly performance shows that 2021 accounted for nearly 80% of total sales ($717.8 million), demonstrating a sharp rebound from 2020’s $182.1 million.
 This surge reflects strong consumer confidence and effective retail and marketing strategies following a challenging economic year.
 
-**[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODgxYWNiMzItOGU2NS00MjU1LWEzNTQtNzViNTZhYzU0M2RiIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
+![my image description](https://github.com/R887645/Adidas-US-Sales-Analysis/blob/main/deep%20insight%20page%203.png?raw=true)
 
 # Insights and Findings
 ## Channel Performance
@@ -221,10 +225,14 @@ Continue leveraging high-performing retailers like Foot Locker and West Gear for
 
 These challenges improved my understanding of data modeling efficiency and visualization clarity in Power BI.
 
+**[View My Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODgxYWNiMzItOGU2NS00MjU1LWEzNTQtNzViNTZhYzU0M2RiIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
+
+
 # Conclusion
 
 This Adidas U.S. Sales Dashboard project deepened my understanding of data storytelling, DAX modeling, and performance analysis using Power BI.
 Through this project, I demonstrated how analytics can uncover valuable insights — from channel optimization to regional marketing strategies.
 
 The process also reinforced the importance of turning raw data into actionable business intelligence, bridging the gap between analytics and strategy.
+
 
